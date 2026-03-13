@@ -2,6 +2,8 @@
 
 The `env/` folder contains environment specification files and documentation necessary to **recreate the software environment** used in this project. This ensures that analyses and figures can be reproduced reliably across different systems.
 
+Add the relevant configuration files to this folder when setting up or documenting the project environment.
+
 Recommended configuration files include, but are not limited to:
 
 - **Python:** `environment.yml`, `requirements.txt`

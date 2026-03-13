@@ -1,10 +1,10 @@
 title: "Your Figure Title" # replace with the title of figure
 
-# replace abstact with a brief description of the repository
+# replace abstract with a brief description of the repository
 abstract: "This is a sample CFF file for a project. It includes metadata such as title, authors, version, license, and DOI. The file is structured in YAML format and follows the Citation File Format (CFF) specification."
 
 authors:
-# Replace the following with the authors
+# Replace the following with the actual authors for this figure.
   -
     affiliation: "IPCC WGI TSU, France"
     family-names: Hong

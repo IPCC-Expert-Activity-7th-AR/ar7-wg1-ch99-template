@@ -67,9 +67,9 @@ env.bak/
 # ------------------------------------
 # Instructions for data protection (metadata allowed; datasets not)
 # ------------------------------------
-# NOTE: data/ folder are for metadata files (e.g., README, .yml, .yaml, .json, .md, etc.),
-# add lines here to to prevent accidental commits of input/intermediate data. 
-# For exmaple, common data/binary formats, such as
+# NOTE: The data/ folder is for metadata files (e.g., README, .yml, .yaml, .json, .md, etc.);
+# add lines here to prevent accidental commits of input/intermediate data.
+# For example, common data/binary formats, such as
 # data/**/*.nc
 # data/**/*.hdf
 # data/**/*.h5

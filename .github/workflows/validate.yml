@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Validate figure folders
         shell: bash
@@ -47,7 +47,7 @@ jobs:
                 echo "❌ Invalid folder name: $dir"
                 missing=$((missing+1))
               else
-                echo "✅ Folder name format passed validate"
+                echo "✅ Folder name format passed validation"
               fi
 
               # -----------------------------

@@ -2,7 +2,7 @@
 # Data Source Metadata Template
 # ================================
 
-# NOTE:Please do NOT place large dataset files inside the ./data folder of this repository. 
+# NOTE: Please do NOT place large dataset files inside the ./data folder of this repository. 
 # GitHub enforces strict file size and repository volume limits, and committing large files may cause push failures or repository issues.
 # ./data is intended to manage dataset metadata and access information, not to store large raw data files.
 

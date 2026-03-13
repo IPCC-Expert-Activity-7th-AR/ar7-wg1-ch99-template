@@ -8,6 +8,7 @@ Please create a subfolder for each multi-figure case using the following naming 
 
 - XX: chapter number
 - YY, HH, KK, etc: figure numbers
+- Example: `figs99_01_02` for chapter 99 when figures 1 and 2 share the same data.
 
 If a figure uses its own independent dataset or preprocessing, all data relevant information should be documented within each figure’s folder instead.
 

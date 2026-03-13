@@ -11,11 +11,10 @@ Figure X.X  From the IPCC Working Group I Contribution to the Seventh Assessment
 Example:
 
 Figure 3.4  From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
-![Figure caption](/figure/ar6_wg1_chap3_figure3_4_surface_temp_anomaly?raw=true)
+![Figure caption](./figure/ar6_wg1_chap3_figure3_4_surface_temp_anomaly.png?raw=true)
 
 ## Contents
 
-- [Contents](#contents)
 - [Description](#description)
 - [Installation](#installation)
 - [Expected image path](#expected-image-path)
